@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+<meta charset="UTF-8">
+<title>موقع توعوي</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <h1>موقع توعوي</h1>
+  <p class="name">Ali Fouad Al-Shalh</p>
+</header>
+
+<section class="content">
+  <img src="profile.jpg" alt="صورة علي فؤاد الشلح">
+  <h2>رسالة توعوية</h2>
+  <p>
+    هذا الموقع يهدف إلى التوعية ونشر الرسائل الإيجابية
+    وتعزيز القيم الأخلاقية والاجتماعية
+  </p>
+</section>
+
+<section class="social">
+  <h3>تابعني على</h3>
+  <a href="https://www.facebook.com/share/1Fn1bFm4U5/?mibextid=wwXIfr" target="_blank">فيسبوك</a>
+  <a href="https://www.tiktok.com/@ali_fouad" target="_blank">تيك توك</a>
+  <a href="https://wa.me/966553988812" target="_blank">واتساب</a>
+</section>
+
+<footer>
+  <p>© موقع توعوي</p>
+</footer>
+
+</body>
+</html>
